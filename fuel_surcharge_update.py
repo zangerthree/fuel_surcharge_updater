@@ -51,8 +51,10 @@ def build_table_from_csv(opening_tag, rows):
 
 
 def process_files(base_dir):
-    av1_path = os.path.join(base_dir, 'av_table1.txt')
-    av2_path = os.path.join(base_dir, 'av_table2.txt')
+    av1_path = os.path.join(base_dir, 'OLD_av_table1.txt')
+    av2_path = os.path.join(base_dir, 'OLD_av_table2.txt')
+    av1_write_path = os.path.join(base_dir, 'NEW_av_table1.txt')
+    av2_write_path = os.path.join(base_dir, 'NEW_av_table2.txt')
     csv_path = os.path.join(base_dir, 'new_surcharge.csv')
 
     if not os.path.exists(csv_path):
@@ -113,13 +115,14 @@ def process_files(base_dir):
             # fallback: append before closing tag
             av2_content = av2_content.replace('[/av_table]', '\n' + '\n'.join(current_rows) + '\n[/av_table]')
 
-        write_text_file(av2_path, av2_content)
-        log_print(f'Appended {len(current_rows)} rows to historical table at {av2_path}')
+        write_text_file(av2_write_path, av2_content)
+        # append av1 table content to av2
+        log_print(f'Appended {len(current_rows)} rows to historical table at {av2_write_path}')
 
     # Build new current table from CSV and write to av_table1
     new_current_table = build_table_from_csv(opening_tag, table_values)
-    write_text_file(av1_path, new_current_table)
-    log_print(f'Wrote new current table to {av1_path}')
+    write_text_file(av1_write_path, new_current_table)
+    log_print(f'Wrote new current table to {av1_write_path}')
 
     return True
 
