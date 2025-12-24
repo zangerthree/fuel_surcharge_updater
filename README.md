@@ -1,9 +1,8 @@
 ## Fuel Surcharge Table Updater
 
 ### What this script does
-This script updates the **fuel surcharge tables** on the APG website.
+This script updates the **fuel surcharge tables** on the APG website. It:
 
-It:
 - Reads new fuel surcharge data from `new_surcharge.csv`.
 - Moves the existing rows from the *current* table into the *historical* table.
 - Rebuilds the current table using the same Avia `[av_table] / [av_row]` structure.
@@ -11,7 +10,7 @@ It:
 
 ---
 
-### How to use
+### How to use:
 
 1. Open the WordPress editor:  
    https://apgecommerce.com/wp-admin/post.php?post=57&action=edit
@@ -26,7 +25,7 @@ It:
 
 3. Update **only the values** (numbers / percentages) in:
    - **new_surcharge.csv**
-Do not change formatting or remove tags, only modify the text data and percentages.
+   - Do not change formatting or remove tags, only modify the text data and percentages.
 
 
 4. This will generate two new files. Copy the contents of these files back into code blocks 1 and 2 in WordPress:
