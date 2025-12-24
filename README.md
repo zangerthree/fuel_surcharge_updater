@@ -25,8 +25,7 @@ It:
 
 
 3. Update **only the values** (numbers / percentages) in:
-   ```text
-   new_surcharge.csv
+   - **new_surcharge.csv**
 Do not change formatting or remove tags, only modify the text data and percentages.
 
 
