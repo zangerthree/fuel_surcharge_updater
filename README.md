@@ -4,7 +4,7 @@
 This script updates the **fuel surcharge tables** on the APG website.
 
 It:
-- Reads new surcharge values from `new_surcharge.csv` (values only: numbers/percentages).
+- Reads new fuel surcharge data from `new_surcharge.csv`.
 - Moves the existing rows from the *current* table into the *historical* table.
 - Rebuilds the current table using the same Avia `[av_table] / [av_row]` structure.
 - Outputs updated table files ready to paste back into WordPress.
