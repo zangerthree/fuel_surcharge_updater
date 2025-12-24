@@ -29,6 +29,9 @@ It:
    new_surcharge.csv
 Do not change formatting or remove tags, only modify the text data and percentages.
 
-4. Copy the contents of these files back into code blocks 1 and 2 in WordPress.
 
-5. NOTE: Preview or do these changes in UAT before committing changes to PROD website to confirm.
+4. This will generate two new files. Copy the contents of these files back into code blocks 1 and 2 in WordPress:
+   - **NEW_av_table1.txt** → paste into `Code Block 1`
+   - **NEW_av_table2.txt** → paste into `Code Block 2`
+
+5. NOTE: Preview or make these changes in UAT before committing changes to PROD website to confirm.
