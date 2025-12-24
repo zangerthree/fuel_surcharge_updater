@@ -1,0 +1,1186 @@
+[av_table purpose='pricing' pricing_table_design='avia_pricing_default' pricing_hidden_cells='' caption='' responsive_styling='avia_responsive_table' alb_description='' id='fuel-surcharges-table' custom_class='']
+[av_row row_style=''][av_cell col_style='']Period[/av_cell][av_cell col_style='']Product[/av_cell][av_cell col_style='']Fuel Surcharge[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']1st December 2025 - 28th December 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+1.2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']9.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']9.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']13.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']13.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']13.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']17.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - UK[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - USA[/av_cell][av_cell col_style='']38%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']27th October 2025 - 30th November 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']8.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']37.9%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']29th September 2025 - 26th October 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']8.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']12.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']37.9%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']1st September 2025 - 28th September 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']8.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']38.3%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']28th July 2025 - 31st August 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+1%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']9%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']9%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']13%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']13%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']13%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']17%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']1%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']1%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']1%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']38.3%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']30th June 2025 - 27th July 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized
+[/av_cell][av_cell col_style='']12%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']0%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']35.5%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']May 26th 2025 - 29th June 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']8.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']12.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']35.3%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']April 28th 2025 - May 25th 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']8.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']12.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']35.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']March 31st 2025 - April 27th 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']8.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']36%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']February 24th 2025 - March 30th 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+1.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']9.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']9.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']13.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']13.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']13.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']17.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']1.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']1.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']1.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']35.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']January 27th, 2025 – February 23rd, 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.8%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']8.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']8.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']12.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']0.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']34.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']December 30th, 2024 – January 26th, 2025
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']8.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']8.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']16.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']34.5%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']November 25th, 2024 – December 29th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']8.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']8.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']12.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']12.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']12.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']16.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']0.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']35.1%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']October 28th, 2024 - November 24th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']8.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']8.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']16.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']0.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']36%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']September 30th, 2024 – October 27th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']8.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']8.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']16.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']0.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']0.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']0.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']35.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']August 26th, 2024 – Sep 29th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+1.2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']9.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']9.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']13.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']13.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']17.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']36.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']July 29th, 2024 – August 25th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']10%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']14%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']14%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']18%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']37.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']July 1st, 2024 – July 28th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']18%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']26%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']May 27th, 2024 – June 30th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']18%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']27%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']April 29th, 2024 – May 26th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']10.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']10.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']14.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']14.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']18.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']2.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']2.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']2.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']29%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']April 1st, 2024 – April 28th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']10.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']10.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']14.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']14.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']18.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']2.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']2.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']2.6%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']29%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']February 26th, 2024 – March 31st, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+3%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']11%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']11%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']15%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']15%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']15%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']19%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']3%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']3%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - UK[/av_cell][av_cell col_style='']3%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - USA[/av_cell][av_cell col_style='']27%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']January 29th, 2024 – February 25th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']18%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK
+[/av_cell][av_cell col_style='']2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']38%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']January 1st, 2024 – January 28th, 2024
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']10%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']14%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']14%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']18%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']38%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']November 27th, 2023 – December 31st, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+3.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']11.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']11.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']19.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']39.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']October 30th, 2023 – November 26th, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']12%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']12%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']16%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']16%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']16%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']20%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']40%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']September 25th, 2023 – October 29th, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+4.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic
+[/av_cell][av_cell col_style='']12.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']12.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']16.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']16.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']16.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']20.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns
+[/av_cell][av_cell col_style='']4.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']4.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']4.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA
+[/av_cell][av_cell col_style='']39%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']August 28, 2023 – September 24th, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+3%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']11%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']11%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']15%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']15%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']15%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']19%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']3%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']3%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - UK[/av_cell][av_cell col_style='']3%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - USA[/av_cell][av_cell col_style='']34.8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']July 24, 2023 – August 27, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+1.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']9.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']9.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']13.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']13.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']13.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']17.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']1.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']1.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - UK[/av_cell][av_cell col_style='']1.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - USA[/av_cell][av_cell col_style='']32%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']June 26, 2023 – July 23, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+1%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']9%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']9%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']13%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']13%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']13%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']17%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']1%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']1%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - UK[/av_cell][av_cell col_style='']1%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - USA[/av_cell][av_cell col_style='']33%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']May 29, 2023 – June 25, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+1.2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']9.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']9.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']13.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']13.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']13.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']17.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - UK[/av_cell][av_cell col_style='']1.2%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups - USA[/av_cell][av_cell col_style='']33%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']May 1, 2023 – May 28, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+2.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']10.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']10.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']14.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']14.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']14.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']18.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']2.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']2.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']2.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']42.0%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']March 27, 2023 – April 30, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+3.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']11.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']11.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']19.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']42.0%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']February 27, 2023 – March 26, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+5.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']13.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']13.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']17.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']17.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']17.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']21.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']5.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']5.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']5.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']January 30, 2023 – February 26, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+4.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']12.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']12.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']16.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']16.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']16.4%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']20.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']4.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']4.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']4.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']December 26, 2022 – January 29, 2023
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+4.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style='']12.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods
+[/av_cell][av_cell col_style='']16.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']16.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited
+[/av_cell][av_cell col_style='']16.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express
+[/av_cell][av_cell col_style='']20.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']4.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)
+[/av_cell][av_cell col_style='']4.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']4.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']November 21, 2022 – December 25, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+6.8%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']14.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']18.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']18.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']18.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']22.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']6.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']6.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']6.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']October 24, 2022 – November 20, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+5.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']13.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']17.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']17.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']17.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']21.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']5.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']5.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']5.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']September 26, 2022 – October 23, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+5.8%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']13.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']17.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']17.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']17.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']21.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']5.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']5.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']August 29, 2022 - September 25, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+ 5.2%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']13.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']5.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']17.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']17.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']17.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']21.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']5.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']5.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']5.2%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']August 1, 2022 - August 28, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+ 7.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']15.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']19.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']19.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']19.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']23.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style=''] 7.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style=''] 7.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style=''] 7.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']June 27, 2022 - July 31, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+ 7.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']15.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']19.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']19.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']19.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']23.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style=''] 7.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style=''] 7.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style=''] 7.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']May 29, 2022 - June 26, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+ 8.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']16.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']20.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']20.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']20.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']24.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']8.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']8.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']8.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']14.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']18.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']April 25, 2022 - May 28, 2022
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats
+<br>ePacket
+<br>ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+ 6.4%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']18.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']18.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']22.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']6.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']6.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups[/av_cell][av_cell col_style='']6.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']Mar 28, 2022 – Apr 24, 2022[/av_cell][av_cell col_style='']ePacket[/av_cell][av_cell col_style=''] 3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']ePacket Plus[/av_cell][av_cell col_style=''] 3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']ePacket Express[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Letters & Flats[/av_cell][av_cell col_style='']3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']11.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']15.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']19.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style=''] 3.4%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']Mar 21, 2022 – Mar 27, 2022[/av_cell][av_cell col_style='']ePacket[/av_cell][av_cell col_style='']   1.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br> [/av_cell][av_cell col_style='']ePacket Plus
+[/av_cell][av_cell col_style=''] 1.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>  [/av_cell][av_cell col_style='']ePacket Express[/av_cell][av_cell col_style='']   1.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>  [/av_cell][av_cell col_style='']eParcel Premium
+[/av_cell][av_cell col_style=''] 9.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>  [/av_cell][av_cell col_style='']Letters & Flats
+[/av_cell][av_cell col_style='']   1.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>  [/av_cell][av_cell col_style='']eParcel Premium – Oversized
+[/av_cell][av_cell col_style='']13.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>  [/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']13.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>  [/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']17.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>  [/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']13.8%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br> [/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']  1.8%[/av_cell][/av_row]
+[/av_table]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' id='' custom_class='' admin_preview_bg='']
+<div class="fuelbold">Fuel Surcharges Calculation</div>
+[/av_textblock]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' id='' custom_class='' admin_preview_bg='']
+<div class="fuel">These surcharges are valid for reference prices of up to $2.00 per gallon.</div>
+[/av_textblock]
+
+[av_table purpose='pricing' pricing_table_design='avia_pricing_default' pricing_hidden_cells='' caption='' responsive_styling='avia_responsive_table' alb_description='' id='fuel-surcharges-table' custom_class='']
+[av_row row_style=''][av_cell col_style='']Product[/av_cell][av_cell col_style='']Fuel Surcharge[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']ePacket[/av_cell][av_cell col_style='']0%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']ePacket Plus[/av_cell][av_cell col_style='']0%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']ePacket Express[/av_cell][av_cell col_style='']0%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']Letters & Flats[/av_cell][av_cell col_style='']0%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']8%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']eParcel Premium – Oversized[/av_cell][av_cell col_style='']12%
+[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']12%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']12%<br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']16%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']eReturns[/av_cell][av_cell col_style=''] 0%[/av_cell][/av_row]
+[/av_table]

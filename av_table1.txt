@@ -1,0 +1,21 @@
+[av_table purpose='pricing' pricing_table_design='avia_pricing_default' pricing_hidden_cells='' caption='' responsive_styling='avia_responsive_table' alb_description='' id='fuel-surcharges-table' custom_class='' av_uid='av-yho75']
+[av_row row_style=''][av_cell col_style='']Period[/av_cell][av_cell col_style='']Product[/av_cell][av_cell col_style='']Fuel Surcharge[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']29th December 2025 - 25th January 2026
+</BR>
+<br><br><br><br>[/av_cell][av_cell col_style='']Letters & Flats<br>
+ePacket<br>
+ePacket Plus<br>
+ePacket Express<br>[/av_cell][av_cell col_style='']<br>
+0.6%
+<br><br><br>[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Classic[/av_cell][av_cell col_style='']8.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium[/av_cell][av_cell col_style='']8.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium for Dangerous Goods[/av_cell][av_cell col_style='']12.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Premium - Oversized[/av_cell][av_cell col_style='']12.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Expedited[/av_cell][av_cell col_style='']12.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eParcel Express[/av_cell][av_cell col_style='']16.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']eReturns[/av_cell][av_cell col_style='']0.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Undeliverables (RTS)[/av_cell][av_cell col_style='']0.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – UK[/av_cell][av_cell col_style='']0.6%[/av_cell][/av_row]
+[av_row row_style=''][av_cell col_style='']<br>[/av_cell][av_cell col_style='']Pickups – USA[/av_cell][av_cell col_style='']37.5%[/av_cell][/av_row]
+[/av_table]
