@@ -18,13 +18,17 @@ It:
 
 <img width="1629" height="909" alt="image" src="https://github.com/user-attachments/assets/a6c81748-fd8d-46d8-8fbb-bfcbd7c6724b" />
 
-2. Update **only the values** (numbers / percentages) in:
-   ```text
-   new_surcharge.csv
-Do not change formatting or column structure.
 
-3. Copy the table contents:
+2. Copy the table contents:
    - **Code block 1** → paste into `OLD_av_table1.txt`
    - **Code block 2** → paste into `OLD_av_table2.txt`
 
+
+3. Update **only the values** (numbers / percentages) in:
+   ```text
+   new_surcharge.csv
+Do not change formatting or remove tags, only modify the text data and percentages.
+
 4. Copy the contents of these files back into code blocks 1 and 2 in WordPress.
+
+5. NOTE: Preview or do these changes in UAT before committing changes to PROD website to confirm.
